@@ -1,0 +1,28 @@
+{
+    "name": "jackvargo/pmpro-snippets-library",
+    "description": "Snippets Library for Paid Memberships Pro and related Add Ons",
+    "type": "wordpress-plugin",
+    "homepage": "https://www.paidmembershipspro.com",
+    "require": {
+        "php": ">=7.0",
+        "johnpbloch/wordpress": ">=5.0"
+    },
+    "authors": [
+        {
+            "name": "strangerstudios",
+            "homepage": "https://github.com/strangerstudios"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/strangerstudios/pmpro-snippets-library",
+        "issues": "https://github.com/strangerstudios/pmpro-snippets-library/issues"
+    },
+    "extra": {
+        "original_repository": "https://github.com/strangerstudios/pmpro-snippets-library",
+        "stars": 9,
+        "watchers": 9,
+        "forks": 15,
+        "open_issues": 13
+    },
+    "license": "GNU General Public License v3.0"
+}
